@@ -1,5 +1,7 @@
-h1{background-color:rgba(0, 255, 0, 0.5); color:yellow; font-size:34px; display:inline}
+h1{background-color:rgba(0, 255, 0, 0.5); color:yellow; font-size:34px; display:inline; margin-left:720px}
 p{color:brown}
 th{color:gray}
 td{color:#8A0000}
-div{background-color:lightblue;margin:10px;padding:10px}
+div{background-color:lightblue;display:inline-table;margin-left:400px;padding:10px}
+.lunar{background-color:#efefef;text-align:center}
+img{margin:auto;display:block}
